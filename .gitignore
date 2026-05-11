@@ -1,0 +1,17 @@
+# projects/ 下各项目作为 submodule 管理，不忽略整个目录
+
+# 本地配置（不进 git）
+tools/config.sh
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 虚拟环境
+.venv/

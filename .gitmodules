@@ -1,0 +1,123 @@
+[submodule "research/embodied_ai/repos/Ctrl-World"]
+	path = research/embodied_ai/repos/Ctrl-World
+	url = https://github.com/Robert-gyj/Ctrl-World.git
+
+[submodule "research/embodied_ai/repos/DreamDojo"]
+	path = research/embodied_ai/repos/DreamDojo
+	url = https://github.com/NVIDIA/DreamDojo.git
+
+[submodule "research/embodied_ai/repos/FastWAM"]
+	path = research/embodied_ai/repos/FastWAM
+	url = https://github.com/yuantianyuan01/FastWAM.git
+
+[submodule "research/embodied_ai/repos/Genie-Envisioner"]
+	path = research/embodied_ai/repos/Genie-Envisioner
+	url = https://github.com/AgibotTech/Genie-Envisioner.git
+
+[submodule "research/embodied_ai/repos/LARYBench"]
+	path = research/embodied_ai/repos/LARYBench
+	url = https://github.com/meituan-longcat/LARYBench.git
+
+[submodule "research/embodied_ai/repos/Motus"]
+	path = research/embodied_ai/repos/Motus
+	url = https://github.com/thu-ml/Motus.git
+
+[submodule "research/embodied_ai/repos/UniVLA"]
+	path = research/embodied_ai/repos/UniVLA
+	url = https://github.com/baaivision/UniVLA.git
+
+[submodule "research/embodied_ai/repos/cosmos-policy"]
+	path = research/embodied_ai/repos/cosmos-policy
+	url = https://github.com/NVlabs/cosmos-policy.git
+
+[submodule "research/embodied_ai/repos/dreamzero"]
+	path = research/embodied_ai/repos/dreamzero
+	url = https://github.com/dreamzero0/dreamzero.git
+
+[submodule "research/embodied_ai/repos/lingbot-va"]
+	path = research/embodied_ai/repos/lingbot-va
+	url = https://github.com/Robbyant/lingbot-va.git
+
+[submodule "research/embodied_ai/repos/mimic-video"]
+	path = research/embodied_ai/repos/mimic-video
+	url = https://github.com/mimic-video/mimic-video.git
+
+[submodule "research/embodied_ai/repos/robocasa"]
+	path = research/embodied_ai/repos/robocasa
+	url = https://github.com/robocasa/robocasa.git
+
+[submodule "research/embodied_ai/repos/video-prediction-policy"]
+	path = research/embodied_ai/repos/video-prediction-policy
+	url = https://github.com/roboterax/video-prediction-policy.git
+
+[submodule "research/generative_vision/repos/DDT"]
+	path = research/generative_vision/repos/DDT
+	url = https://github.com/MCG-NJU/DDT.git
+
+[submodule "research/generative_vision/repos/DiT"]
+	path = research/generative_vision/repos/DiT
+	url = https://github.com/facebookresearch/DiT.git
+
+[submodule "research/generative_vision/repos/Internal-Guidance"]
+	path = research/generative_vision/repos/Internal-Guidance
+	url = https://github.com/CVL-UESTC/Internal-Guidance.git
+
+[submodule "research/generative_vision/repos/JiT"]
+	path = research/generative_vision/repos/JiT
+	url = https://github.com/LTH14/JiT.git
+
+[submodule "research/generative_vision/repos/LightningDiT"]
+	path = research/generative_vision/repos/LightningDiT
+	url = https://github.com/hustvl/LightningDiT.git
+
+[submodule "research/generative_vision/repos/RAE"]
+	path = research/generative_vision/repos/RAE
+	url = https://github.com/bytetriper/RAE.git
+
+[submodule "research/generative_vision/repos/REPA"]
+	path = research/generative_vision/repos/REPA
+	url = https://github.com/sihyun-yu/REPA.git
+
+[submodule "research/generative_vision/repos/denoising-diffusion-pytorch"]
+	path = research/generative_vision/repos/denoising-diffusion-pytorch
+	url = https://github.com/lucidrains/denoising-diffusion-pytorch.git
+
+[submodule "research/generative_vision/repos/dino/dino"]
+	path = research/generative_vision/repos/dino/dino
+	url = https://github.com/facebookresearch/dino.git
+
+[submodule "research/generative_vision/repos/dino/dinov2"]
+	path = research/generative_vision/repos/dino/dinov2
+	url = https://github.com/facebookresearch/dinov2.git
+
+[submodule "research/generative_vision/repos/dino/dinov3"]
+	path = research/generative_vision/repos/dino/dinov3
+	url = https://github.com/facebookresearch/dinov3.git
+
+[submodule "research/generative_vision/repos/drifting"]
+	path = research/generative_vision/repos/drifting
+	url = https://github.com/lambertae/drifting.git
+
+[submodule "research/generative_vision/repos/mae"]
+	path = research/generative_vision/repos/mae
+	url = https://github.com/facebookresearch/mae.git
+
+[submodule "research/generative_vision/repos/ml-tarflow"]
+	path = research/generative_vision/repos/ml-tarflow
+	url = https://github.com/apple/ml-tarflow.git
+
+[submodule "research/multimodal_vlm/repos/Qwen3-VL"]
+	path = research/multimodal_vlm/repos/Qwen3-VL
+	url = https://github.com/QwenLM/Qwen3-VL.git
+
+[submodule "research/multimodal_vlm/repos/tuna-2"]
+	path = research/multimodal_vlm/repos/tuna-2
+	url = https://github.com/facebookresearch/tuna-2.git
+
+[submodule "research/video_generation/repos/HunyuanVideo"]
+	path = research/video_generation/repos/HunyuanVideo
+	url = https://github.com/Tencent-Hunyuan/HunyuanVideo.git
+
+[submodule "research/video_generation/repos/Wan2.2"]
+	path = research/video_generation/repos/Wan2.2
+	url = https://github.com/Wan-Video/Wan2.2.git
